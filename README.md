@@ -15,6 +15,17 @@
 </p>
 
 ---
+## 🐍 GitHub Contribution Snake
+
+
+
+<!-- Snake -->
+<div align="center">
+  
+  ![snake gif](https://github.com/Shivi7757/Shivi7757/blob/output/github-snake-dark.svg)
+</div>
+
+---
 
 ## 🔥 GitHub Streaks
 
