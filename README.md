@@ -15,17 +15,7 @@
 </p>
 
 ---
-## 🐍 GitHub Contribution Snake
 
-
-
-<!-- Snake -->
-<div align="center">
-  
-  ![snake gif](https://github.com/Shivi7757/Shivi7757/blob/output/github-snake-dark.svg)
-</div>
-
----
 
 ## 🔥 GitHub Streaks
 
@@ -69,6 +59,17 @@
   <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
   <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
 </p>
+
+---
+## 🐍 GitHub Contribution Snake
+
+
+
+<!-- Snake -->
+<div align="center">
+  
+  ![snake gif](https://github.com/Shivi7757/Shivi7757/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
